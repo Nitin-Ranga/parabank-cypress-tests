@@ -1,0 +1,7 @@
+node_modules
+cypress/cache
+cypress/videos
+cypress/screenshots
+.DS_Store
+package-lock.json # if you're using npm
+yarn.lock       # if you're using yarn
